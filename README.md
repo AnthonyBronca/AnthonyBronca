@@ -26,7 +26,7 @@ I love coding in Front-End with React/Redux, but also love working with data in 
 ## 🔭 Current Projects
 
 * EarthBnB - A pixel-perfect clone of AirBnB
-* Twiller - A pixel-perfect clone of Twitter
+* Pixtagram-mobile - A pixel-perfect clone of Instagram's mobile app
 * Pixtagram - a pixel-perfect clone of Instagram
 
 
