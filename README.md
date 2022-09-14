@@ -1,5 +1,14 @@
 ### Hello! My name is Anthony Bronca! 👋 
-I love coding in Front-End with React/Redux, but also love working with data in the Back-End with Node.js or Flask. Outside of my coding life, I love cooking, going to the beach, reading about historical events and medical breakthroughs, and also relaxing at home watching a good show or playing video games. 
+
+I come from a finance and accounting background. During COVID, I decided to make the career switch to Software Engineering.
+
+I LOVE working in the front-end of both web and mobile development. I love being able to work on UI/UX and designing/planning features that look and feel great from the client side. I have always been 'artistic' but was never able to put it on paper. Now, as a software engineer, I am able to make beautiful and interactive sites that can help both businesses and people alike!
+
+I also have experience working in the backe-end. It's always awesome getting to problem solve and come up with ways develop applications keeping space, time, and overall cost in mind. I primarily use Node.JS and Flask for my backend routes, but I also have experience using BaaS such as AWS Amplify and Google's Firebase.
+
+I love learning new things, and welcome the opportunity to be challenged. Overall, my professional goal is to be in at a level of understanding where I can take on mentorship and teaching level tasks. 
+
+On a personal level:  I love playing video games, cooking, investing and researching economic changes, going to the beach, and playing sports (soccer, football, golf, swimming)
 
 ## Full-Stack Software Engineer
 
