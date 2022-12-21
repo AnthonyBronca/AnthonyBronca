@@ -37,7 +37,7 @@ Feel free to connect with me on Github, or follow me on LinkedIn! For inquires o
 
 ## GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=anthonybronca&show_icons=true&theme=radical)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anthonybronca.anthonybronca)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=anthonybronca.visitor-badge&left_text=MyPageVisitors)
 <!--
 **AnthonyBronca/AnthonyBronca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
