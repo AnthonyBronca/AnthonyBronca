@@ -1,14 +1,14 @@
 ### Hello! My name is Anthony Bronca! 👋 
 
-I come from a finance and accounting background. During COVID, I decided to make the career switch to Software Engineering.
+I am a natural jack-of-trades. I have an innate curosity for learning new things, whether it be technologies, out door activities, or some sort of hobby.
+I enjoy being able to help people, and often volunteer or work towards being a mentoring position.
 
-I LOVE working in the front-end of both web and mobile development. I love being able to work on UI/UX and designing/planning features that look and feel great from the client side. I have always been 'artistic' but was never able to put it on paper. Now, as a software engineer, I am able to make beautiful and interactive sites that can help both businesses and people alike!
+Currently, I am working with App Academy as an instructional assistant, where I get to teach students how to program!
 
-I also have experience working in the backe-end. It's always awesome getting to problem solve and come up with ways develop applications keeping space, time, and overall cost in mind. I primarily use Node.JS and Flask for my backend routes, but I also have experience using BaaS such as AWS Amplify and Google's Firebase.
+As a full-stack developer, I am comfortable working in both front-end and back-end projects. I tend to learn towards front-end, as I love the challenges
+and creativity that come with working on user-facing technologies. My main technologies are Javascript/Typescript, but I am also comfortable working in Python.
 
-I love learning new things, and welcome the opportunity to be challenged. Overall, my professional goal is to be in at a level of understanding where I can take on mentorship and teaching level tasks. 
-
-On a personal level:  I love playing video games, cooking, investing and researching economic changes, going to the beach, and playing sports (soccer, football, golf, swimming)
+Feel free to connect with me on Github, or follow me on LinkedIn! For inquires on any of my current/past projects, feel free to send me a direct message through LinkedIn and I will make sure to get back to you as soon as possible! Thank you for visitng my GitHub 😄 
 
 ## Full-Stack Software Engineer
 
