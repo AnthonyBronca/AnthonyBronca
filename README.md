@@ -33,16 +33,11 @@ Feel free to connect with me on Github, or follow me on LinkedIn! For inquires o
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🔭 Current Projects
-
-* EarthBnB - A pixel-perfect clone of AirBnB
-* Pixtagram-mobile - A pixel-perfect clone of Instagram's mobile app
-* Pixtagram - a pixel-perfect clone of Instagram
 
 
 ## GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=anthonybronca&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybronca&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={AnthonyBronca}&theme=blue-green)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anthonybronca.anthonybronca)
 <!--
 **AnthonyBronca/AnthonyBronca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
