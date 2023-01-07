@@ -1,12 +1,12 @@
 ### Hello! My name is Anthony Bronca! 👋 
 
 I am a natural jack-of-trades. I have an innate curosity for learning new things, whether it be technologies, out door activities, or some sort of hobby.
-I enjoy being able to help people, and often volunteer or work towards being a mentoring position.
+I enjoy being able to help people, and often volunteer or work towards being in a mentoring position.
 
 Currently, I am working with App Academy as an instructional assistant, where I get to teach students how to program!
 
 As a full-stack developer, I am comfortable working in both front-end and back-end projects. I tend to learn towards front-end, as I love the challenges
-and creativity that come with working on user-facing technologies. My main technologies are Javascript/Typescript, but I am also comfortable working in Python.
+and creativity that come with working on user-facing technologies. My main technologies are Javascript/Typescript, but I am also comfortable working in Python. I have experience creating full-stack web and mobile applications. I also have experience with deploying applications with the use of container management systems such as Docker.
 
 Feel free to connect with me on Github, or follow me on LinkedIn! For inquires on any of my current/past projects, feel free to send me a direct message through LinkedIn and I will make sure to get back to you as soon as possible! Thank you for visitng my GitHub 😄 
 
