@@ -33,8 +33,8 @@ Feel free to connect with me on Github, or follow me on LinkedIn! For inquires o
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=anthonybronca&show_icons=true&theme=radical)
-
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=anthonybronca&show_icons=true&theme=radical)
+ -->
 <!--
 **AnthonyBronca/AnthonyBronca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
