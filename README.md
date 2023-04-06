@@ -1,16 +1,36 @@
-### Hello! My name is Anthony Bronca! 👋 
+Hi, I'm Anthony Bronca 👋
+I'm a Full-stack Developer with experience in building web applications using Javascript, Typescript, Python, React.js, Express.js, Node.js, HTML5, CSS3, Flask, Amazon Web Services, Docker, Shell, Puppeteer.js, Playwright.js, Mocha.js, Chai, TDD, OOP, SQL, PostgreSQL, and SQLAlchemy.
 
-I am a natural jack-of-trades. I have an innate curosity for learning new things, whether it be technologies, out door activities, or some sort of hobby.
-I enjoy being able to help people, and often volunteer or work towards being in a mentoring position.
-
-Currently, I am working with App Academy as an instructional assistant, where I get to teach students how to program!
-
-As a full-stack developer, I am comfortable working in both front-end and back-end projects. I tend to learn towards front-end, as I love the challenges
-and creativity that come with working on user-facing technologies. My main technologies are Javascript/Typescript, but I am also comfortable working in Python. I have experience creating full-stack web and mobile applications. I also have experience with deploying applications with the use of container management systems such as Docker.
-
-Feel free to connect with me on Github, or follow me on LinkedIn! For inquires on any of my current/past projects, feel free to send me a direct message through LinkedIn and I will make sure to get back to you as soon as possible! Thank you for visiting my GitHub 😄 
-
-## Full-Stack Software Engineer
+## 🚀 Skills
+Languages
+Javascript
+Typescript
+Python
+HTML5
+CSS3
+SQL
+## Frameworks/Libraries
+React.js
+Express.js
+Node.js
+Flask
+Databases
+PostgreSQL
+SQLAlchemy
+## Tools
+Amazon Web Services (AWS)
+Docker
+Shell
+Puppeteer.js
+Playwright.js
+Mocha.js
+Chai
+## Methodologies
+Test-driven development (TDD)
+Object-oriented programming (OOP)
+📫 Get in touch
+LinkedIn: https://www.linkedin.com/in/anthonybronca/
+Let's build something great together!
 
 [![Linkedin Badge](https://img.shields.io/badge/-AnthonyBronca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anthonybronca/)
 
@@ -32,15 +52,14 @@ Feel free to connect with me on Github, or follow me on LinkedIn! For inquires o
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=anthonybronca&show_icons=true&theme=radical)
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=anthonybronca&show_icons=true&theme=radical)
- -->
-<!--
-**AnthonyBronca/AnthonyBronca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **AnthonyBronca/AnthonyBronca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
