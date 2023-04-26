@@ -1,4 +1,8 @@
 Hi, I'm Anthony Bronca 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2768F7&width=435&lines=Web+Developer;Mobile+Developer;Software+Engineer;Software+Engineering+Instructor)](https://git.io/typing-svg)
+
+
 I'm a Full-stack Developer with experience in building web applications using Javascript, Typescript, Python, React.js, Express.js, Node.js, HTML5, CSS3, Flask, Amazon Web Services, Docker, Shell, Puppeteer.js, Playwright.js, Mocha.js, Chai, TDD, OOP, SQL, PostgreSQL, and SQLAlchemy.
 
 ## 🚀 Skills
