@@ -3,12 +3,12 @@ Hi, I'm Anthony Bronca 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2768F7&width=435&lines=Web+Developer;Mobile+Developer;Software+Engineer;Software+Engineering+Instructor)](https://git.io/typing-svg)
 
 
-I'm a Full-stack Developer with experience in building web applications using Javascript, Typescript, Python, React.js, Express.js, Node.js, HTML5, CSS3, Flask, Amazon Web Services, Docker, Shell, Puppeteer.js, Playwright.js, Mocha.js, Chai, TDD, OOP, SQL, PostgreSQL, and SQLAlchemy.
+I'm a Full-stack Developer with experience building Web, and Mobile applications using: TypeScript, JavaScript, Python, Shell, Docker, Node.js, React.js, Express.js, Redux, Pug.js, HTML, CSS, Flask, Amazon Web Services.
 
-## 🚀 Skills
+## Skills
 Languages
-Javascript
 Typescript
+Javascript
 Python
 HTML5
 CSS3
@@ -34,7 +34,6 @@ Test-driven development (TDD)
 Object-oriented programming (OOP)
 📫 Get in touch
 LinkedIn: https://www.linkedin.com/in/anthonybronca/
-Let's build something great together!
 
 [![Linkedin Badge](https://img.shields.io/badge/-AnthonyBronca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anthonybronca/)
 
