@@ -13,27 +13,32 @@ Python
 HTML5
 CSS3
 SQL
-## Frameworks/Libraries
-React.js
-Express.js
-Node.js
-Flask
-Databases
-PostgreSQL
-SQLAlchemy
-
->## Tools
-Amazon Web Services (AWS)
-Docker
 Shell
-Puppeteer.js
-Playwright.js
+
+## Frameworks/Libraries
+Node.js
+Express.js
+React.js
+Redux
 Mocha.js
 Chai
+Jest
+Puppeteer.js
+Playwright.js
+Flask
+SQLAlchemy
+Sequelize
+Alembic
+
+## Tools
+PostgreSQL
+Docker
+Amazon Web Services (AWS)
 
 ## Methodologies
 Test-driven development (TDD)
 Object-oriented programming (OOP)
+AGILE
 
 ## 📫 Get in touch
 LinkedIn: https://www.linkedin.com/in/anthonybronca/
