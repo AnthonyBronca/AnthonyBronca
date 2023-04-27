@@ -21,7 +21,8 @@ Flask
 Databases
 PostgreSQL
 SQLAlchemy
-## Tools
+
+>## Tools
 Amazon Web Services (AWS)
 Docker
 Shell
@@ -29,10 +30,12 @@ Puppeteer.js
 Playwright.js
 Mocha.js
 Chai
+
 ## Methodologies
 Test-driven development (TDD)
 Object-oriented programming (OOP)
-📫 Get in touch
+
+## 📫 Get in touch
 LinkedIn: https://www.linkedin.com/in/anthonybronca/
 
 [![Linkedin Badge](https://img.shields.io/badge/-AnthonyBronca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anthonybronca/)
