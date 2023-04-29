@@ -15,7 +15,7 @@ Python
 HTML5
 CSS3
 SQL
-Shell
+Bash
 
 ## Frameworks/Libraries
 Node.js
@@ -31,6 +31,7 @@ Flask
 SQLAlchemy
 Sequelize
 Alembic
+Tensorflow.js
 
 ## Tools
 PostgreSQL
