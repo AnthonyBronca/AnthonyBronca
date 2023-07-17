@@ -8,42 +8,42 @@ I'm a Full-stack Developer with experience building Web, and Mobile applications
 I have worked on many different projects. Some of my favorite projects to work on were my clone of Twitter's mobile app, making some useful NPM packages for the Node.js community, building a full stack web clone of Instagram, and building an educational course on TypeScript! Apart from my love for programming, I also like to spend my time at the beach or going to some local restaurants. As a graduate of the University of Central Florida's College of Business, and former accountant I had a lot of experience working with data in a business setting, but really loved learning to automate tasks to increase my productivity and efficiency. My simple scripts lead me to gain company wide recognition, as some of my programs were being used within multiple departments nationwide. I really enjoyed the thrill of building something with great utility for my peers, and I looking to continue doing that in my future roles.
 
 ## Skills
-Languages
-Typescript
-Javascript
-Python
-HTML5
-CSS3
-SQL
-Bash
+### Languages
+- Typescript
+- Javascript
+- Swift
+- Python
+- HTML5
+- CSS3
+- SQL
+- Bash
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybronca&layout=compact)](https://github.com/anthonybronca/github-readme-stats)
 
-## Frameworks/Libraries
-Node.js
-Express.js
-React.js
-Redux
-Mocha.js
-Chai
-Jest
-Puppeteer.js
-Playwright.js
-Flask
-SQLAlchemy
-Sequelize
-Alembic
-Tensorflow.js
+### Frameworks/Libraries
+- Node.js
+- Express.js
+- React.js
+- Redux
+- Mocha.js
+- Chai
+- Jest
+- Puppeteer.js
+- Playwright.js
+- Flask
+- SQLAlchemy
+- Sequelize
+- Alembic
+- Tensorflow.js
 
 ## Tools
-PostgreSQL
-Docker
-Amazon Web Services (AWS)
+- PostgreSQL
+- Docker
+- Amazon Web Services (AWS)
 
 ## Methodologies
-Test-driven development (TDD)
-Object-oriented programming (OOP)
-AGILE
+- Test-driven development (TDD)
+- Object-oriented programming (OOP)
+- AGILE
 
 ## 📫 Get in touch
 LinkedIn: https://www.linkedin.com/in/anthonybronca/
