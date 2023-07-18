@@ -23,6 +23,8 @@ I have worked on many different projects. Some of my favorite projects to work o
 - Node.js
 - Express.js
 - React.js
+- SwiftUI
+- WebKit
 - Redux
 - Mocha.js
 - Chai
@@ -34,15 +36,17 @@ I have worked on many different projects. Some of my favorite projects to work o
 - Sequelize
 - Alembic
 - Tensorflow.js
+- PyTorch
 
 ## Tools
 - PostgreSQL
+- SQLite3
 - Docker
 - Amazon Web Services (AWS)
 
 ## Methodologies
-- Test-driven development (TDD)
-- Object-oriented programming (OOP)
+- Test-Driven Development (TDD)
+- Object-Oriented Programming (OOP)
 - AGILE
 
 ## 📫 Get in touch
