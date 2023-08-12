@@ -74,5 +74,5 @@ LinkedIn: https://www.linkedin.com/in/anthonybronca/
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=anthonybronca&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybonca&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybronca&layout=compact)
 <!-- **AnthonyBronca/AnthonyBronca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
