@@ -2,10 +2,9 @@ Hi, I'm Anthony Bronca 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2768F7&width=435&lines=Web+Developer;Mobile+Developer;Software+Engineer;Software+Engineering+Instructor)](https://git.io/typing-svg)
 
+I am Full Stack Software Engineer. I have experience working with both Web and Mobile applications. Currently, I am working as a Software Engineering Instructional Assistant at App Academy.
 
-I'm a Full-stack Developer with experience building Web, and Mobile applications. My current role is a Junior Instructional Assistant at App Academy's Software Engineering Bootcamp.
-
-I have worked on many different projects. Some of my favorite projects to work on were my clone of Twitter's mobile app, making some useful NPM packages for the Node.js community, building a full stack web clone of Instagram, and building an educational course on TypeScript! Apart from my love for programming, I also like to spend my time at the beach or going to some local restaurants. As a graduate of the University of Central Florida's College of Business, and former accountant I had a lot of experience working with data in a business setting, but really loved learning to automate tasks to increase my productivity and efficiency. My simple scripts led me to gain company wide recognition, as some of my programs were being used within multiple departments nationwide. I really enjoyed the thrill of building something with great utility for my peers, and I looking to continue doing that in my future roles.
+Some of my favorite projects to work on was a [mobile clone for Twitter](https://github.com/AnthonyBronca/Twiller-mobile), a [web clone of Instagram](https://github.com/AnthonyBronca/Pixtagram), a Github [educational course on Typescript](https://github.com/AnthonyBronca/TypeScript-Course), and more recently a Full-Stack [PERN Airbnb clone made entirely with Typescript](https://github.com/AnthonyBronca/FireBnB). I also loved working on making some NPM packages for the node community, such as [getrandomjs](https://www.npmjs.com/package/getrandomjs)
 
 ## Skills
 ### Languages
@@ -20,9 +19,9 @@ I have worked on many different projects. Some of my favorite projects to work o
 
 
 ### Frameworks/Libraries
-- Node.js
 - Express.js
 - React.js
+- React-Native.js
 - SwiftUI
 - WebKit
 - Redux
@@ -41,6 +40,7 @@ I have worked on many different projects. Some of my favorite projects to work o
 ## Tools
 - PostgreSQL
 - SQLite3
+- MongoDB
 - Docker
 - Amazon Web Services (AWS)
 
@@ -74,17 +74,5 @@ LinkedIn: https://www.linkedin.com/in/anthonybronca/
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=anthonybronca&show_icons=true&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybonca&layout=compact)
 <!-- **AnthonyBronca/AnthonyBronca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started: -->
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
