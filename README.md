@@ -5,6 +5,10 @@ Hi, I'm Anthony Bronca 👋
 Senior Full Stack Development Instructor at App Academy with 3 years of experience in web and mobile development. Specialized in development with React.js, Express.js, and Typescript. Proven ability in developing and managing projects with both internal and client facing functionality with a business-first mentality.
 
 
+
+https://github.com/AnthonyBronca/AnthonyBronca/assets/95654116/d3162d93-7748-4b17-b194-bd19f24d522a
+
+
 ## Skills
 ### Languages
 - Typescript
