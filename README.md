@@ -2,12 +2,11 @@ Hi, I'm Anthony Bronca 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2768F7&width=435&lines=Web+Developer;Mobile+Developer;Software+Engineer;Software+Engineering+Instructor)](https://git.io/typing-svg)
 
-Senior Full Stack Development Instructor at App Academy with 3 years of experience in web and mobile development. Specialized in development with React.js, Express.js, and Typescript. Proven ability in developing and managing projects with both internal and client facing functionality with a business-first mentality.
-
+Software Engineer at App Academy with experience in buildng Full-Stack Web and Mobile applications using modern frameworks, technologies, and methodolgies. 
 
 ## Languages
-- Typescript
-- Javascript
+- TypeScript
+- JavaScript
 - Python
 - Swift
 - HTML5
@@ -20,6 +19,9 @@ Senior Full Stack Development Instructor at App Academy with 3 years of experien
 - SQLite3
 - Docker
 - Amazon Web Services (AWS)
+- Git
+- Firebase
+- Expo
 
 
 ## 📫 Get in touch
