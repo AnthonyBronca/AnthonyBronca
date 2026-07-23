@@ -53,7 +53,5 @@ LinkedIn: https://www.linkedin.com/in/anthonybronca/
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=anthonybronca&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybronca&layout=compact)
 <!-- **AnthonyBronca/AnthonyBronca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
