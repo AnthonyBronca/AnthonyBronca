@@ -2,7 +2,7 @@ Hi, I'm Anthony Bronca 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2768F7&width=435&lines=Web+Developer;Mobile+Developer;Software+Engineer;Software+Engineering+Instructor)](https://git.io/typing-svg)
 
-Software Engineer at App Academy with experience in buildng Full-Stack Web and Mobile applications using modern frameworks, technologies, and methodolgies. 
+Software Engineer with experience in buildng Full-Stack Web and Mobile applications using modern frameworks, technologies, and methodolgies. 
 
 ## Languages
 - TypeScript
